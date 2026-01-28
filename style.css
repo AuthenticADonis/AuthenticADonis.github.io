@@ -1,5 +1,5 @@
 body {
-    background: rgb(255, 0, 0);
+    background: rgb(129, 0, 185);
     color: rgb(0, 0, 0);
     padding: 10px;
     font-family: Arial, sans-serif;
@@ -12,7 +12,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(169, 0, 166);
+    background: rgb(204, 235, 0);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -41,7 +41,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #6d0049;
+    color: #000000;
 }
 
 /* main container area beneath menu */
